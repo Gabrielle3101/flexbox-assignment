@@ -29,12 +29,24 @@ section {
   background-color: hsl(31, 77%, 52%);
 }
 
+.sedans button {
+  color: hsl(31, 77%, 52%);
+}
+
 .suvs {
   background-color: hsl(184, 100%, 22%);
 }
 
+.suvs button{
+  color: hsl(184, 100%, 22%);
+}
+
 .luxury {
   background-color: hsl(179, 100%, 13%);
+}
+
+.luxury button {
+ color: hsl(179, 100%, 13%);
 }
 
 button {
