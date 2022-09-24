@@ -19,10 +19,6 @@ body {
   background-color: hsl(0, 0%, 95%);
 }
 
-.body{
-  border-radius: 15px;
-}
-
 section {
   padding: 2rem;
   width: 250px;
