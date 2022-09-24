@@ -9,7 +9,7 @@
   box-sizing: border-box;
 }
 
-.body {
+body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -31,6 +31,8 @@ section {
 
 .sedans {
   background-color: hsl(31, 77%, 52%);
+  border-top-left-radius: border-radius: 15px;
+  border-bottom-left-radius: border-radius: 15px;
 }
 
 .sedans button {
@@ -47,6 +49,8 @@ section {
 
 .luxury {
   background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: border-radius: 15px;
+  border-top-right-radius: border-radius: 15px;
 }
 
 .luxury button {
