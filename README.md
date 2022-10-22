@@ -1,12 +1,13 @@
 ## Welcome! 👋
 
-To do this challenge, you need a basic understanding of HTML, CSS flexbox and media queries.
+My name is Gabrielle Duere. This is an assignment from hertechtrail cohort4 web1.
 
 ## The challenge
 
 Your challenge is to build the design image displayed in the images folder.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+You can use any tools you like to help you complete the challenge. I used vanilla css for this challenge.
+
 
 ## Your users should be able to:
 
@@ -31,4 +32,4 @@ As mentioned above, there are a number of ways to host your project for free. We
 4. Connect your project to netlify from the "Import project" page, using the "From Git Repository" button and selecting the project you want to deploy.
    Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
 
-**Have fun building!** 🚀
+**I had fun building this!** 🚀
