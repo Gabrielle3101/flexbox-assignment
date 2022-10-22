@@ -31,5 +31,9 @@ As mentioned above, there are a number of ways to host your project for free. We
 3. Sign up to netlify and go through the onboarding flow, ensuring your GitHub account is connected by using their netlify for GitHub integration.
 4. Connect your project to netlify from the "Import project" page, using the "From Git Repository" button and selecting the project you want to deploy.
    Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
+   
+ ## Appreciation
+ Special thanks to Ms Maggy for guiding me and to HerTechTrail for this opportunity!
+
 
 **I had fun building this!** 🚀
